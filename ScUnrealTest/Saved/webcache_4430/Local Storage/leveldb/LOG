@@ -1,3 +1,2 @@
-2024/02/05-19:04:09.096 2738 Reusing MANIFEST C:/Users/orion/Documents/GitHub/ScUnrealTest/ScUnrealTest/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/02/05-19:04:09.098 2738 Recovering log #3
-2024/02/05-19:04:09.098 2738 Reusing old log C:/Users/orion/Documents/GitHub/ScUnrealTest/ScUnrealTest/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/02/05-19:13:42.192 7f94 Creating DB D:/Documents/GitHub/ScUnrealTest/ScUnrealTest/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/02/05-19:13:42.253 7f94 Reusing MANIFEST D:/Documents/GitHub/ScUnrealTest/ScUnrealTest/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
